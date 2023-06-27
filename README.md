@@ -13,7 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Tasks
 
-- [] View the optimal layout depending on their device's screen size
+- [ ] View the optimal layout depending on their device's screen size
 - [x] See hover and focus states for interactive elements
 
 ### Screenshot
@@ -22,6 +22,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/dev-pedroalmeida/product-preview-card](https://github.com/dev-pedroalmeida/product-preview-card)
+- Live Site URL: [https://dev-pedroalmeida.github.io/product-preview-card/](https://dev-pedroalmeida.github.io/product-preview-card/)
 
